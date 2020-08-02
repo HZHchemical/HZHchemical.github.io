@@ -11,6 +11,4 @@ author: HZHchemical
 
 学习过程
 
-
-
-![image-20200802212747417](../image/2020-08-02-Huang-zihao/image-20200802212747417.png)
+![image-20200802221731388](../image/2020-08-02-Huang-zihao/image-20200802221731388.png)
